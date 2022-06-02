@@ -4,7 +4,7 @@
         <item>KEEP</item>
         <item>WEAR</item>
     </string-array>
-    <string name="GithubLink"><a href="https://github.com/anismdnazri/Zakat_Gold_Payment">GitHub Link</a></string>
+    <string name="GithubLink"><a href="https://github.com/SalmanHakim2021/ZakatEmasCalculator">GitHub Link</a></string>
     <string name="developers">Developers</string>
     <string name="developers_detail">MUHAMMAD HARITH BIN MOKHTAR\n2021341101\n\nMUHAMMAD SALMAN HAKIM BIN SHAIFUL NIZAM\n2021102437</string>
     <string name="copyright">Copyright &#169; 2022 Harith Hakim</string>
