@@ -143,7 +143,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         editor2.apply();
 
 
-        if (stat.equals("Keep")){
+        if (stat.equals("KEEP")){
             totGvalue= gweight * gvalue;
             uruf= gweight - 85;
 
